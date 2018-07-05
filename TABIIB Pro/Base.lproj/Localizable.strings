@@ -1,0 +1,266 @@
+/* 
+  Localizable.strings
+  TABIIB Pro
+
+  Created by SMSCountry Networks Pvt. Ltd on 28/03/18.
+  Copyright © 2018 SMSCountry Networks Pvt. Ltd. All rights reserved.
+*/
+
+"UnAuthorisedUser" = "Authentication Failure please login Again!!";
+
+//About
+
+"Set Your Availability" = "Set Your Availability";
+"Plan a month ahead. Set your availability based on your extended practice hours" = "Plan a month ahead. Set your availability based on your extended practice hours";
+"Manage Appointments on go" = "Manage Appointments Easily";
+"Setup, cancel, and reschedule appointments for the entire month, any time of the day" = "Setup, cancel, and reschedule appointments for the entire month, any time of the day";
+"Become More Discoverable" = "Become More Discoverable";
+"Reach prospective patients, use iPhone or Android and maximize your earnings" = "Reach prospective patients, use iPhone or Android and maximize your earnings";
+"Manage Multiple Clinics" = "Manage Multiple Clinics";
+"Add multiple clinics under your profile and easily handle your appointments" = "Add multiple clinics under your profile and easily handle your appointments";
+
+
+"Password length must have at least 6 character !!.." = "Password length must have at least 6 character !!";
+"Password should be atleast one capital,numeric,small letters..." = "Password should be atleast one capital,numeric,small letters";
+"Select atleast one specialization" = "Select atleast one specialization";
+
+"Years" = "Years";
+"Months" = "Months";
+
+
+// error from server
+
+"Error from server" = "Error from server";
+"Error from Server" = "Error from Server";
+"Please Insert SIM Card..." = "Please Insert SIM Card";
+
+//Login
+
+"Error from server" = "Error from server";
+"please enter email Id..." = "Please enter email Id";
+"please enter password..." = "Please enter password";
+"please enter valid Email id..." = "Please enter valid Email id";
+"please enter correct password..." = "Please enter correct password";
+"please enter password..." = "Please enter password";
+"please enter email Id or mobile number..." = "Please enter email Id or mobile number";
+// forgot
+
+"please enter mobile number..." = "Please enter mobile number";
+"please enter valid Mobile Number..." = "Please enter valid Mobile Number";
+"Enter your mobile number, and we'll send you an OTP to reset your password" = "Enter your mobile number, and we'll send you an OTP to reset your password";
+
+//OTP
+
+"please enter otp number..." = "Please enter otp number";
+"Auto detecting the OTP sent to " = "You will receive the OTP shortly to ";
+"please enter valid OTP Number..." = "Please enter valid OTP Number";
+
+//Reset
+
+"please enter New password..." = "Please enter New password";
+"please enter correct confirm password..." = "Please enter correct confirm password";
+"please enter new password..." = "Please enter new password";
+"please enter confirm new password..." = "Please enter confirm new password";
+
+// signup
+
+"please enter valid Email id..." = "Please enter valid Email id";
+
+
+//Home
+
+"Profile" = "Profile";
+"Clinics" = "Clinics";
+"Appointments" = "Appointments";
+"Payments" = "Payments";
+"Language" ="Language";
+"Reports" = "Reports";
+"Web Access" = "Web Access";
+"Support" = "Support";
+"Coming Soon..." = "Coming Soon";
+
+// common
+
+"Photos permission" = "Photos permission";
+"Okay" = "Okay";
+"Camera permissions" = "Camera permissions";
+"Camera" = "Camera";
+"Gallery" = "Gallery";
+"Cancel" = "Cancel";
+
+//profile
+
+"please enter Name..." = "Please enter Name";
+"please enter valid Email id..." = "Please enter valid Email id";
+"please enter highest education..." = "Please enter highest education";
+"please enter second highest education..." = "Please enter second highest education";
+"please enter university..." = "Please enter university";
+"please enter medical registration number..." = "Please enter medical registration number";
+"please enter medical registration council number.." = "Please enter medical registration council number";
+"please enter registration year..." = "Please enter registration year";
+"Proof of Medical Registration" = "Proof of Medical Registration";
+"Proofs of Qualification" = "Proofs of Qualification";
+"Max limit of medical proofs are 3 only" = "Max limit of medical proofs are 3 only";
+"Max limit of education proofs are 3 only" = "Max limit of education proofs are 3 only";
+"please select at least one Medical proof" = "Please select at least one Medical proof";
+
+//clinic
+
+"please enter clinic name..." = "Please enter clinic name";
+"please enter clinic branch..." = "Please enter clinic branch";
+"please enter clinic mobilenumber..." = "Please enter clinic mobilenumber";
+"please enter valid clinic mobilenumber..." = "Please enter valid clinic mobilenumber";
+"please enter clinic emailId..." = "Please enter clinic emailId";
+"please enter valid clinic emailId..." = "Please enter valid clinic emailId";
+"please enter  clinic address..." = "Please enter  clinic address";
+"please enter valid clinic zipcode..." = "Please enter valid clinic zipcode";
+"Select atleast one week day" = "Select atleast one week day";
+"Select Timings" = "Select Timings";
+"Select No of persons per hour" = "Select No of persons per hour";
+"Select  no of days configuration" = "Select  no of days configuration";
+"Note : Please update the availability after the selected time to ensure your listing stays active" = "Note : Please update the availability after the selected time to ensure your listing stays active";
+
+//Appointments
+
+"UpComing" = "UpComing";
+"Completed" = "Completed";
+"Canceled" = "Canceled";
+"Requested" = "Requested";
+
+"Check In" = "Check In";
+"Check Out" = "Check Out";
+"Call" = "Call";
+"Cancel" = "Cancel";
+
+"By you" = "By you";
+"Patient" = "Patient";
+
+//Loadweb
+
+"FAQ’s" = "FAQ’s";
+"PRIVACY POLICY" = "PRIVACY POLICY";
+"T & C" = "T & C";
+"ABOUT US" = "ABOUT US";
+
+// language
+
+"English" = "English";
+"Arabic" = "Arabic";
+"Confirm. Relaunch app with new language selection?" = "Confirm. Relaunch app with new language selection?";
+"Continue" = "Continue";
+"Cancel" = "Cancel";
+"For language translation reopen the app" = "For language translation reopen the app";
+"Are you sure you want to change the language?" = "Are you sure you want to change the language?";
+//support
+
+"FAQ’s" = "FAQ’s";
+"Privacy Policy" = "Privacy Policy";
+"T & C" = "T & C";
+"About us" = "About us";
+"Rate us" = "Rate us";
+"Email us" = "Email us";
+"Contact us" = "Contact us";
+
+//changepassword
+
+"please enter old password..." = "Please enter old password";
+"please enter new password..." = "Please enter new password";
+
+//********************************* All Placeholder TextFields *****************************
+
+//signUp
+"Email ID" = "Email ID";
+"Password" = "Password";
+"Mobile Number" = "Mobile Number";
+"Name" = "Name";
+"Medical Registration Number" = "Medical Registration Number";
+//Login
+"Email/Mobile Number" = "Email/Mobile Number";
+"Password" = "Password";
+//forgot
+"Email/Mobile No." = "Email/Mobile No.";
+//otp
+"OTP" = "OTP";
+//reset
+"New Password" = "New Password";
+"Confirm Password" = "Confirm Password";
+//profile
+"Name" = "Name";
+"Email ID" = "Email ID";
+"Mobile Number" = "Mobile Number";
+"Highest Educational Qualifcation" = "Highest Educational Qualifcation";
+"Other Educational Qualification (Optional)" = "Other Educational Qualification (Optional)";
+"University Name" = "University Name";
+"Medical Registration Number" = "Medical Registration Number";
+"Medical Registration Council" = "Medical Registration Council";
+"Registration Year" = "Registration Year";
+//clinic
+"Clinic Branch Name" = "Clinic Branch Name";
+"Clinic Address (optional)" = "Clinic Address (optional)";
+"Email ID" = "Email ID";
+"Pincode/Zipcode" = "Pincode/Zipcode";
+"Clinic Name" = "Clinic Name";
+"Mobile Number" = "Mobile Number";
+"Consultation Fee" = "Consultation Fee";
+//change password
+"Old password" = "Old password";
+"New password" = "New password";
+"Proof of Medical Registration" = "Proof of Medical Registration";
+"Proofs of Qualification" = "Proofs of Qualification";
+"New" = "New";
+"ID" = "ID";
+"Source" = "Source";
+"Type" = "Type";
+"Other" = "Other";
+"Online" = "Online";
+"NO DUE" = "NO DUE";
+"NO" = "NO";
+
+
+
+"Resned Password limit Exceeds" = "You have reached the OTP limit. Please try again after sometime";
+"New Update is Available!" = "New Update is Available!";
+"Update" = "Update";
+"Proceed" = "Proceed";
+"Not Now" = "Not Now";
+"Persons per hour" = "Persons per hour";
+
+
+"Sun" = "Sun";
+"Mon" = "Mon";
+"Tue" = "Tue";
+"Wed" = "Wed";
+"Thu" = "Thu";
+"Fri" = "Fri";
+"Sat" = "Sat";
+
+
+
+"Mrs." = "Mrs.";
+"Mr." = "Mr.";
+"Ms." = "Ms.";
+
+
+"Something went to wrong" = "Something seems to be wrong!";
+"please select country prefix..." = "please select country prefix...";
+"please don't enter special characters" = "please don't enter special characters";
+"Select Clinic Timings" = "Select Clinic Timings";
+"Pull to refresh" = "Pull to refresh";
+"Are you sure want to Cancel Appointment?" = "Do you want cancel Appointment?";
+"Confirm & New passwords should be same" = "New password doesn't match with old password";
+
+"Saturday" = "Saturday";
+"Sunday" = "Sunday";
+"Monday" = "Monday";
+"Tuesday" = "Tuesday";
+"Wednesday" = "Wednesday";
+"Thursday" = "Thursday";
+"Friday" = "Friday";
+
+
+"The language settings has been changed successfully" = "The language settings has been changed successfully";
+
+"Please enter end time is greater than start time" = "Please enter end time is greater than start time";
+"Yes" = "Yes";
+"No"  = "No";
+

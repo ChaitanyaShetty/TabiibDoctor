@@ -1,0 +1,6 @@
+framework module Pods_TABIIB_ProUITests {
+  umbrella header "Pods-TABIIB ProUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

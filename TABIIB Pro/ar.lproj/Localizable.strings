@@ -1,0 +1,276 @@
+/* 
+  Localizable.strings
+  TABIIB Pro
+
+  Created by SMSCountry Networks Pvt. Ltd on 28/03/18.
+  Copyright © 2018 SMSCountry Networks Pvt. Ltd. All rights reserved.
+*/
+
+"UnAuthorisedUser" = "عملية الربط غير ناجحة الرجاء تسجيل الدخول مرة أخرى";
+
+
+//About
+
+"Set Your Availability" = "حدد وقت مواعيدك";
+"Plan a month ahead. Set your availability based on your extended practice hours" = "اضبط جدول مواعيدك المتاحة قبل شهر بما يتناسب مع أوقات عملك";
+"Manage Appointments Easily" = "أدر جدول مواعيدك بسهولة";
+"Setup, cancel, and reschedule appointments for the entire month, any time of the day" = "يمكنك إعداد، إلغاء، وإعادة جدولة المواعيد للشهر بأكمله، في أي وقت من اليوم";
+"Become More Discoverable" = "دع الجميع يعرف من أنت";
+"Reach prospective patients, use iPhone or Android and maximize your earnings" = "نمكنك من الوصول إلى كل شخص يبحث عن مواعيد بإستخدام جهازه الذكي لتزيد فرصة أرباحك";
+
+"Manage Multiple Clinics" = "الإدارة لأكثر من عيادة";
+"Add multiple clinics under your profile and easily handle your appointments" = "يمكنك إضافة عدة عيادات تحت ملفك الشخصي والتعامل بسهولة مع مواعيدك";
+
+
+
+"Password length must have at least 6 character !!.." = "كلمة السر يجب أن تحتوي على 6 أحرف على الأقل !!";
+"Password should be atleast one capital,numeric,small letters..." = "كلمة السر يجب أن تحتوي على حرف كبير، رقم، حرف صغير ...";
+"Select atleast one specialization" = "حدد تخصص واحد على الأقل";
+
+
+// error from server
+
+"Error from server" = "خطأ من السيرفر";
+"Error from Server" = "خطأ من السيرفر";
+"Please Insert SIM Card..." = "Please Insert SIM Card...";
+
+//Login
+
+"Error from server" = "خطأ من السيرفر";
+"please enter email Id..." = "الرجاء إدخال البريد الإلكتروني";
+"please enter password..." = "الرجاء إدخال كلمة السر";
+"please enter valid Email id..." = "الرجاء إدخال البريد الإلكتروني الصحيح";
+"please enter correct password..." = "الرجاء إدخال كلمة السر الصحيحة";
+"please enter password..." = "الرجاء إدخال كلمة السر";
+"please enter email Id or mobile number..." = "الرجاء إدخال البريد الإلكتروني أو رقم الإتصال ...";
+
+// forgot
+
+"please enter mobile number..." = "الرجاء إدخال رقم الإتصال";
+"please enter valid Mobile Number..." = "الرجاء إدخال رقم الإتصال الصحيح";
+"Enter your mobile number, and we'll send you an OTP to reset your password" = "قم بإدخال رقم هاتفك وسوف نقوم بإرسال كلمة المرور المؤقتة لإعادة ضبط كلمة المرور";
+
+//OTP
+
+"please enter otp number..." = "الرجاء إدخال كلمة السر المؤقتة المرسلة لك";
+"Auto detecting the OTP sent to " = "سوف تستلم كلمة السر المؤقتة قريبا";
+"please enter valid OTP Number..." = "الرجاء إدخال كلمة السر المؤقتة الصحيحة";
+
+//Reset
+
+"please enter New password..." = "الرجاء إدخال كلمة السر الجديدة";
+"please enter correct confirm password..." = "الرجاء إدخال تأكيد كلمة السر الصحيحة";
+"please enter new password..." = "الرجاء إدخال كلمة السر الجديدة";
+"please enter confirm new password..." = "الرجاء إدخال تأكيد كلمة السر الجديدة";
+
+// signup
+
+"please enter valid Email id..." = "الرجاء إدخال البريد الإلكتروني الصحيح";
+
+
+//Home
+
+"Profile" = "الملف الشخصي";
+"Clinics" = "العيادات";
+"Appointments" = "المواعيد";
+"Payments" = "المدفوعات";
+"Language" ="اللغة";
+"Reports" = "التقارير";
+"Web Access" = "صفحة الويب";
+"Support" = "الدعم الفني";
+"Coming Soon..." = "قريبا ...";
+
+// common
+
+"Photos permission" = "السماح بالوصول لتطبيق الصور";
+"Okay" = "موافق";
+"Camera permissions" = "السماح بالوصول لتطبيق الكاميرا";
+"Camera" = "الكاميرا";
+"Gallery" = "الإستيديو";
+"Cancel" = "إلغاء";
+
+//profile
+
+"please enter Name..." = "الرجاء إدخال الاسم";
+"please enter valid Email id..." = "الرجاء إدخال البريد الإلكتروني الصحيح";
+"please enter highest education..." = "الرجاء إدخال المؤهل العلمي الأعلى";
+"please enter second highest education..." = "الرجاء إدخال المؤهل العلمي الأعلى الثاني";
+"please enter university..." = "الرجاء إدخال اسم الجامعة";
+"please enter medical registration number..." = "الرجاء إدخال رقم التسجيل الطبي";
+"please enter medical registration council number.." = "الرجاء إدخال رقم مجلس التسجيل الطبي ..";
+"please enter registration year..." = "الرجاء إدخال سنة التسجيل";
+"Proof of Medical Registration" = "إثبات التسجيل الطبي";
+"Proofs of Qualification" = "إثبات المؤهلات العلمية";
+"Max limit of medical proofs are 3 only" = "الحد الأقصى لمستندات الإثباتات الطبية هو 3 ملفات فقط";
+"Max limit of education proofs are 3 only" = "الحد الأقصى من الإثباتات التعليمية هي 3 فقط";
+"please select at least one Medical proof" = "الرجاء تحديد إثبات واحد للتسجيل الطبي على الأقل";
+"please select at least one Educational proof" = "الرجاء تحميل إثبات واحد للمؤهلات العلمية على الأقل";
+
+//clinic
+
+"please enter clinic name..." = "الرجاء إدخال اسم العيادة";
+"please enter clinic branch..." = "الرجاء إدخال اسم فرع العيادة";
+"please enter clinic mobile number..." = "الرجاء إدخال رقم الإتصال للعيادة";
+"please enter valid clinic mobile number..." = "الرجاء إدخال رقم الإتصال الصحيح للعيادة";
+"please enter clinic email Id..." = "الرجاء إدخال البريد الإلكتروني للعيادة";
+"please enter valid clinic email Id..." = "الرجاء إدخال البريد الإلكتروني الصحيح للعيادة";
+"please enter  clinic address..." = "الرجاء إدخال عنوان العيادة";
+"please enter valid clinic zipcode..." = "الرجاء إدخال الرمز البريدي الصحيح للعيادة";
+"Select atleast one week day" = "إختر يوم واحد في الإسبوع على الأقل";
+"Select Timings" = "إختر الأوقات";
+"Select No of persons per hour" = "إختر عدد الأشخاص في الساعة";
+"Select  no of days configuration" = "حدد أيام الإسبوع";
+"Note : Please update the availability after the selected time to ensure your listing stays active" = "ملاحظة: يرجى تحديث أوقات مواعيدك بعد الوقت المحدد لضمان بقاء قائمة المواعيد نشطة ومحدثة";
+
+//Appointments
+
+"UpComing" = "القادمة";
+"Completed" = "انجزت";
+"Canceled" = "الملغية";
+"Requested" = "المطلوبة";
+
+"Check In" = "حضر";
+"Check Out" = "تم الإنتهاء";
+"Call" = "اتصل";
+"Cancel" = "إلغاء";
+"By you" = "من قبلك";
+"Patient" = "المريض";
+
+//Loadweb
+
+"FAQ’s" = "الأسئلة المتكررة";
+"PRIVACY POLICY" = "سياسة الخصوصية";
+"T & C" = "الشروط و الأحكام";
+"About us" = "من نحن";
+
+// language
+
+"English" = "الإنجليزية";
+"Arabic" = "العربية";
+"Confirm. Relaunch app with new language selection?" = "للتأكيد. إعادة تشغيل التطبيق باللغة التي تم إختيارها؟";
+"Continue" = "مواصلة";
+"Cancel" = "إلغاء";
+"For language translation reopen the app" = "أعد تشغيل التطبيق لتغيير اللغة";
+"Are you sure you want to change the language?" = "هل أنت متأكد من خيار تغيير لغة التطبيق ؟";
+
+//support
+
+"FAQ’s" = "الأسئلة المتكررة";
+"Privacy Policy" = "سياسة الخصوصية";
+"T & C" = "الشروط و الأحكام";
+"About us" = "من نحن";
+"Rate us" = "قم بتقييمنا";
+"Email us" = "راسلنا";
+"Contact us" = "تواصل معنا";
+
+//changepassword
+
+"please enter old password..." = "الرجاء إدخال كلمة السر القديمة";
+"please enter new password..." = "الرجاء إدخال كلمة السر الجديدة";
+
+
+
+
+//********************************* All Placeholder TextFields *****************************
+
+//signUp
+"Email ID" = "البريد الإلكتروني";
+"Password" = "كلمة السر";
+"Mobile Number" = "رقم الإتصال";
+"Name" = "الإسم";
+"Medical Registration Number" = "رقم التسجيل الطبي";
+//Login
+"Email/Mobile Number" = "البريد الإلكتروني/ رقم الموبايل";
+"Password" = "كلمة السر";
+//forgot
+"Email/Mobile Number" = "البريد الإلكتروني/ رقم الموبايل";
+//otp
+"OTP" = "كلمة السر المؤقتة";
+//reset
+"New Password" = "كلمة السر الجديدة";
+"Confirm Password" = "تأكيد كلمة السر الجديدة";
+//profile
+"Name" = "الإسم";
+"Email ID" = "البريد الإلكتروني";
+"Mobile Number" = "رقم الإتصال";
+"Highest Educational Qualifcation" = "المؤهل العلمي الأعلى";
+"Other Educational Qualification (Optional)" = "المؤهلات التعليمية الأخرى (اختياري)";
+"University Name" = "إسم الجامعة";
+"Medical Registration Number" = "رقم التسجيل الطبي";
+"Medical Registration Council" = "جهة شهادة التسجيل الطبي";
+"Registration Year" = "سنة التسجيل";
+//clinic
+"Clinic Branch Name" = "إسم فرع للعيادة (إن وجد)";
+"Clinic Address (optional)" = "عنوان العيادة (اختياري)";
+"Email ID" = "البريد الإلكتروني";
+"Pincode/Zipcode" = "الرمز البريدي";
+"Clinic Name" = "إسم العيادة";
+"Mobile Number" = "رقم الإتصال";
+"Consultation Fee" = "رسوم الإستشارة";
+"Address" = "العنوان";
+//change password
+"Old password" = "كلمة السر القديمة";
+"New password" = "كلمة السر الجديدة";
+
+"Years" = "سنوات";
+"Months" = "شهور";
+"Proof of Medical Registration" = "نسخة من التسجيل الطبي";
+"Proofs of Qualification" = "نسخة من المؤهلات";
+"New" = "جديد";
+"ID" = "الرقم";
+"Source" = "المصدر";
+"Type" = "النوع";
+"Other" = "أخرى";
+"Online" = "اون لاين";
+"NO DUE" = " لا يوجد مستحقات";
+"NO" = "لا";
+
+
+
+"Resned Password limit Exceeds" = "لقد تجاوزت الحد الأقصى لمحاولة إدخال كلمة السر المؤقتة. الرجاء المحاولة مرة أخرى بعد قليل.";
+"New Update is Available!" = "!يوجد تحديثات جديدة";
+"Update" = "تحديث";
+"Proceed" = "متابعة";
+"Not Now" = "ليس الآن";
+"Persons per hour" = "أشخاص كل ساعة";
+
+"Sun" = "الأحد";
+"Mon" = "الإثنين";
+"Tue" = "الثلثاء";
+"Wed" = "الأربعاء";
+"Thu" = "الخميس";
+"Fri" = "الجمعة";
+"Sat" = "السبت‎";
+
+"Mrs." = ".السيدة";
+"Mr." = ".السيد";
+"Ms." = ".السيدة";
+
+
+"Something went to wrong" = "يبو أنه يوجد خطأ ما";
+"please select country prefix..." = "الرجاء اختيار رقم المفتاح الدولي";
+"please don't enter special characters" = "الرجاء عدم إدخال أية رموز";
+"Select Clinic Timings" = "اختر أوقات عمل العيادة";
+"Pull to refresh" = "اسحب للتحديث";
+"Are you sure want to Cancel Appointment?" = "هل تريد إلغاء الموعد";
+"Confirm & New passwords should be same" = "كلمة السر غير متطابقة";
+
+
+"Saturday" = "السبت";
+"Sunday" = "الأحد";
+"Monday" = "الإثنين";
+"Tuesday" = "الثلثاء";
+"Wednesday" = "الأربعاء";
+"Thursday" = "الخميس";
+"Friday" = "الجمعة";
+
+"The language settings has been changed successfully" = "تم تغيير إعدادات اللغة بنجاح";
+
+
+"You will receive the OTP shortly " = "سوف تستلم كلمة السر المؤقتة قريبا";‎
+
+
+"Please enter end time is greater than start time" = "Please enter end time is greater than start time";
+
+"Yes" = "Yes";
+"No"  = "No";

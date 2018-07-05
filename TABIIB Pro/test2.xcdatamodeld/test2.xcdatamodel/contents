@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14133" systemVersion="17E199" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Appointments" representedClassName="Appointments" isAbstract="YES" syncable="YES" codeGenerationType="class">
+        <attribute name="appointID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="appointmentData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="appointType" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="ClinicList" representedClassName="ClinicList" isAbstract="YES" syncable="YES" codeGenerationType="class">
+        <attribute name="hospitalBranchName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hospitalHelpLinePhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hospitalName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="ProfileDetails" representedClassName="ProfileDetails" syncable="YES" codeGenerationType="class">
+        <attribute name="personalDetails" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <entity name="Settings" representedClassName="Settings" syncable="YES" codeGenerationType="class">
+        <attribute name="clinic_count" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="confirmAllApp" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contact_EmailID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contact_Mobileno" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="iOSAppVersion" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isForcable" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notificationCount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pendingApprovals" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="profilefilling" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Specialization" representedClassName="Specialization" syncable="YES" codeGenerationType="class">
+        <attribute name="specialization" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Appointments" positionX="-54" positionY="54" width="128" height="90"/>
+        <element name="ClinicList" positionX="-54" positionY="-9" width="128" height="90"/>
+        <element name="ProfileDetails" positionX="-54" positionY="-9" width="128" height="60"/>
+        <element name="Settings" positionX="-54" positionY="-18" width="128" height="180"/>
+        <element name="Specialization" positionX="-54" positionY="54" width="128" height="60"/>
+    </elements>
+</model>

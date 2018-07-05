@@ -1,0 +1,1036 @@
+
+/* Class = "UILabel"; text = "FORGOT PASSWORD"; ObjectID = "0Au-07-M7v"; */
+"0Au-07-M7v.text" = "هل نسيت كلمة السر";
+
+/* Class = "UILabel"; text = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"; ObjectID = "0Xf-Av-LTS"; */
+"0Xf-Av-LTS.text" = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -";
+
+/* Class = "UILabel"; text = "Jan 5, 2018"; ObjectID = "0na-WN-bC0"; */
+"0na-WN-bC0.text" = "Jan 5, 2018";
+
+/* Class = "UILabel"; text = "Doctor's Suggestion"; ObjectID = "1N6-fN-ZVp"; */
+"1N6-fN-ZVp.text" = "Doctor's Suggestion";
+
+/* Class = "UILabel"; text = "You will receive the OTP shortly "; ObjectID = "1XE-2Z-ftn"; */
+"1XE-2Z-ftn.text" = "سوف تستلم كلمة السر المؤقتة قريبا";
+
+/* Class = "UILabel"; text = "07"; ObjectID = "1eP-cK-MaX"; */
+"1eP-cK-MaX.text" = "07";
+
+/* Class = "UITextField"; placeholder = "OTP"; ObjectID = "1gS-j8-0v8"; */
+"1gS-j8-0v8.placeholder" = "كلمة السر المؤقتة";
+
+/* Class = "UILabel"; text = "Please enter new password for your account"; ObjectID = "1o8-fC-vYY"; */
+"1o8-fC-vYY.text" = "الرجاء إختيار كلمية سر جديدة لحسابك";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1r4-2K-VEY"; */
+"1r4-2K-VEY.text" = "Label";
+
+/* Class = "UILabel"; text = "07"; ObjectID = "1sE-rz-Ubj"; */
+"1sE-rz-Ubj.text" = "07";
+
+/* Class = "UIButton"; normalTitle = "Choose from existing clinic’s"; ObjectID = "1sL-6q-5jR"; */
+"1sL-6q-5jR.normalTitle" = "اختر من العيادات المسجلة لدينا";
+
+/* Class = "UILabel"; text = "Years of Experience:"; ObjectID = "XfG-4r-JTY"; */
+"XfG-4r-JTY.text" = ":سنوات الخبرة";
+
+/* Class = "UILabel"; text = "Get started with Tabiib to get appointments"; ObjectID = "29e-76-FWZ"; */
+"29e-76-FWZ.text" = "!احصل على مواعيدك الآن مع تطبيق طبيب";
+
+/* Class = "UILabel"; text = "Type Follow Up"; ObjectID = "2Di-Wp-Yyj"; */
+"2Di-Wp-Yyj.text" = "Type Follow Up";
+
+/* Class = "UITextField"; placeholder = "Bank Name"; ObjectID = "2Lq-Fs-P7N"; */
+"2Lq-Fs-P7N.placeholder" = "Bank Name";
+
+/* Class = "UILabel"; text = "ACCOUNT NUMBER  - "; ObjectID = "2NC-un-0YR"; */
+"2NC-un-0YR.text" = "ACCOUNT NUMBER  - ";
+
+/* Class = "UILabel"; text = "Enter a new alphanumeric password of 6 characters, \ncontaining a special character, and a capital letter."; ObjectID = "2oP-mN-TRt"; */
+"2oP-mN-TRt.text" = ".أدخل كلمة المرور الجديدة المكونة من 6 أرقام تحتوي على رمز وحرف كبير.";
+
+/* Class = "UILabel"; text = "Enter a new alphanumeric password of 6 characters, \ncontaining a special character, and a capital letter."; ObjectID = "HII-kf-9Qd"; */
+"HII-kf-9Qd.text" = ".أدخل كلمة المرور الجديدة المكونة من 6 أرقام تحتوي على رمز وحرف كبير.";
+
+
+/* Class = "UILabel"; text = "Without adding your clinics and your availability,"; ObjectID = "2q7-TG-8rG"; */
+"2q7-TG-8rG.text" = "إن لم تقم بإضافة معلومات العيادة والمواعيد المتاحة لديك";
+
+/* Class = "UILabel"; text = "Number of days?"; ObjectID = "2qA-lm-jIV"; */
+"2qA-lm-jIV.text" = "إعداة عرض الجدول في وقت آخر";
+
+/* Class = "UILabel"; text = "PAYMENT"; ObjectID = "3Kx-Sl-EYb"; */
+"3Kx-Sl-EYb.text" = "الدفع";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3X2-by-8Yl"; */
+"3X2-by-8Yl.text" = "Label";
+
+/* Class = "UILabel"; text = "Appointment Time -"; ObjectID = "3js-Df-x1A"; */
+"3js-Df-x1A.text" = "وقت الموعد -";
+
+/* Class = "UILabel"; text = " :    Online"; ObjectID = "3nJ-77-4te"; */
+"3nJ-77-4te.text" = " :    Online";
+
+/* Class = "UILabel"; text = "29"; ObjectID = "3qb-YA-RKn"; */
+"3qb-YA-RKn.text" = "29";
+
+/* Class = "UITextField"; placeholder = "Registration Year"; ObjectID = "3uu-bg-iGd"; */
+"3uu-bg-iGd.placeholder" = "سنة التسجيل";
+
+/* Class = "UILabel"; text = "Jan"; ObjectID = "3za-PP-vlQ"; */
+"3za-PP-vlQ.text" = "Jan";
+
+/* Class = "UIButton"; normalTitle = "RESET PASSWORD"; ObjectID = "4Tb-4H-Vtu"; */
+"4Tb-4H-Vtu.normalTitle" = "إعادة تعيين كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "Email ID"; ObjectID = "4YH-5A-YhB"; */
+"4YH-5A-YhB.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UILabel"; text = "CLINIC NAME -"; ObjectID = "4zE-fK-xEN"; */
+"4zE-fK-xEN.text" = " إسم العيادة -";
+
+/* Class = "UILabel"; text = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"; ObjectID = "5vJ-ax-3RS"; */
+"5vJ-ax-3RS.text" = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -";
+
+/* Class = "UILabel"; text = "Sasank Lelapalli"; ObjectID = "5yK-WW-dkW"; */
+"5yK-WW-dkW.text" = "Sasank Lelapalli";
+
+/* Class = "UILabel"; text = "YOUR CLINICS"; ObjectID = "6iO-KL-Dh1"; */
+"6iO-KL-Dh1.text" = "عياداتك";
+
+/* Class = "UILabel"; text = "HELLO DOCTOR!"; ObjectID = "6qv-5C-Dmm"; */
+"6qv-5C-Dmm.text" = "مرحبا دكتور!";
+
+/* Class = "UILabel"; text = "TODAY"; ObjectID = "71Q-ap-UdH"; */
+"71Q-ap-UdH.text" = "TODAY";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "77T-zl-QHG"; */
+"77T-zl-QHG.normalTitle" = "تسليم";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "7FY-6H-O1B"; */
+"7FY-6H-O1B.placeholder" = "العنوان";
+
+/* Class = "UIButton"; normalTitle = "15 Days"; ObjectID = "7GO-FE-fdb"; */
+"7GO-FE-fdb.normalTitle" = "15 يوم";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "7Q7-cN-p9e"; */
+"7Q7-cN-p9e.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "SMSC Clinic"; ObjectID = "7gf-ZM-3JB"; */
+"7gf-ZM-3JB.text" = "SMSC Clinic";
+
+/* Class = "UIButton"; normalTitle = "30 Days"; ObjectID = "7wj-Sr-eCg"; */
+"7wj-Sr-eCg.normalTitle" = "30 يوم";
+
+/* Class = "UILabel"; text = "07"; ObjectID = "8GR-HU-dh4"; */
+"8GR-HU-dh4.text" = "07";
+
+/* Class = "UILabel"; text = "Get started with Tabiib to get appointments"; ObjectID = "8Kw-NA-nMZ"; */
+"8Kw-NA-nMZ.text" = "!احصل على مواعيدك الآن مع تطبيق طبيب";
+
+/* Class = "UIButton"; normalTitle = "91"; ObjectID = "8S1-ot-u1X"; */
+"8S1-ot-u1X.normalTitle" = "91";
+
+/* Class = "UILabel"; text = "Mobile Number - "; ObjectID = "8mo-f6-n5X"; */
+"8mo-f6-n5X.text" = " رقم الإتصال -";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "8oJ-79-eQH"; */
+"8oJ-79-eQH.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "pahnindhra "; ObjectID = "8qr-VG-Lwa"; */
+"8qr-VG-Lwa.text" = "pahnindhra ";
+
+/* Class = "UILabel"; text = "ABC***"; ObjectID = "8vM-Ab-cT6"; */
+"8vM-Ab-cT6.text" = "ABC***";
+
+/* Class = "UILabel"; text = "Viswanadh"; ObjectID = "90d-bJ-ge2"; */
+"90d-bJ-ge2.text" = "Viswanadh";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "95e-TE-qyM"; */
+"95e-TE-qyM.normalTitle" = "إغلاق";
+
+/* Class = "UILabel"; text = "Primary"; ObjectID = "9Mr-Tp-FQD"; */
+"9Mr-Tp-FQD.text" = "أساسي";
+
+/* Class = "UITextField"; placeholder = "University Name"; ObjectID = "ACU-9U-WpA"; */
+"ACU-9U-WpA.placeholder" = "إسم الجامعة";
+
+/* Class = "UIButton"; normalTitle = "CREATE ACCOUNT"; ObjectID = "AGa-Ih-w5p"; */
+"AGa-Ih-w5p.normalTitle" = "إنشاء الحساب";
+
+/* Class = "UILabel"; text = "HOSPITAL"; ObjectID = "Abp-4G-5tw"; */
+"Abp-4G-5tw.text" = "المستشفى";
+
+/* Class = "UIButton"; normalTitle = "Available Time"; ObjectID = "AeE-6i-3Eg"; */
+"AeE-6i-3Eg.normalTitle" = "الأوقات المتاحة";
+
+/* Class = "UIButton"; normalTitle = "All Days"; ObjectID = "AfW-Zg-qvW"; */
+"AfW-Zg-qvW.normalTitle" = "جميع الأيام";
+
+/* Class = "UIButton"; selectedTitle = "All Days"; ObjectID = "AfW-Zg-qvW"; */
+"AfW-Zg-qvW.selectedTitle" = "جميع الأيام";
+
+/* Class = "UILabel"; text = "Choose your app desired language"; ObjectID = "Ay7-h8-xLg"; */
+"Ay7-h8-xLg.text" = "الرجاء اختيار لغة التطبيق";
+
+/* Class = "UILabel"; text = "Jan 5 2018"; ObjectID = "B0x-eb-gh9"; */
+"B0x-eb-gh9.text" = "Jan 5 2018";
+
+/* Class = "UILabel"; text = "New"; ObjectID = "BaA-lL-EP9"; */
+"BaA-lL-EP9.text" = "جديد";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "Beg-p2-j8W"; */
+"Beg-p2-j8W.text" = "2";
+
+/* Class = "UILabel"; text = "FAQ's"; ObjectID = "Bkp-H0-7fL"; */
+"Bkp-H0-7fL.text" = "FAQ's";
+
+/* Class = "UILabel"; text = "You have no appointments today!"; ObjectID = "C7e-xb-EfB"; */
+"C7e-xb-EfB.text" = "!لا يوجد أي مواعيد لهذا اليوم";
+
+/* Class = "UILabel"; text = "Sasank Lelapalli"; ObjectID = "CIh-Ob-Vll"; */
+"CIh-Ob-Vll.text" = "Sasank Lelapalli";
+
+/* Class = "UILabel"; text = "ACCOUNT TYPE  - "; ObjectID = "CbT-3y-69t"; */
+"CbT-3y-69t.text" = "- نوع الحساب ";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "CdX-pb-hfg"; */
+"CdX-pb-hfg.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "New"; ObjectID = "ClG-U7-j7y"; */
+"ClG-U7-j7y.text" = "جديد";
+
+/* Class = "UILabel"; text = "Your documents are safe with us & won't "; ObjectID = "CwG-wh-2A8"; */
+"CwG-wh-2A8.text" = "جميع المستندات المرفوعة آمنة ولن يتم";
+
+/* Class = "UILabel"; text = "ADDING CLINIC'S"; ObjectID = "Dsc-sk-YQX"; */
+"Dsc-sk-YQX.text" = "إضافة عيادة";
+
+/* Class = "UIButton"; normalTitle = "Upload Documents"; ObjectID = "EUq-cp-02a"; */
+"EUq-cp-02a.normalTitle" = "تحميل الملفات";
+
+/* Class = "UILabel"; text = "TRANSCATION ID  -"; ObjectID = "EaC-SC-v3G"; */
+"EaC-SC-v3G.text" = "- رقم المعاملة";
+
+/* Class = "UILabel"; text = "Not Well"; ObjectID = "Em9-nk-G2J"; */
+"Em9-nk-G2J.text" = "Not Well";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "F9v-RY-77t"; */
+"F9v-RY-77t.placeholder" = "كلمة السر الجديدة";
+
+/* Class = "UILabel"; text = ":   02 : 35 - 03 : 15 AM"; ObjectID = "FKe-yA-baf"; */
+"FKe-yA-baf.text" = ":   02 : 35 - 03 : 15 AM";
+
+/* Class = "UILabel"; text = "CLINIC NAME -"; ObjectID = "FZa-X3-1qx"; */
+"FZa-X3-1qx.text" = " إسم العيادة -";
+
+/* Class = "UILabel"; text = "CLINIC NAME -"; ObjectID = "XBq-T7-byH"; */
+"XBq-T7-byH.text" = " إسم العيادة -";
+
+/* Class = "UILabel"; text = "CLINIC NAME -"; ObjectID = "WUJ-ME-AM2"; */
+"WUJ-ME-AM2.text" = " إسم العيادة -";
+
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Fqa-lx-MEg"; */
+"Fqa-lx-MEg.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "PAYMENTS"; ObjectID = "GIf-l0-qJb"; */
+"GIf-l0-qJb.text" = "المدفوعات";
+
+/* Class = "UILabel"; text = "Mode   "; ObjectID = "GSP-RA-VBC"; */
+"GSP-RA-VBC.text" = "النوع   ";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Gaz-ov-Emi"; */
+"Gaz-ov-Emi.normalTitle" = "إلغاء";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "Glh-Dv-uCY"; */
+"Glh-Dv-uCY.normalTitle" = "حفظ";
+
+/* Class = "UILabel"; text = "be shared anywhere"; ObjectID = "Gly-Er-qdB"; */
+"Gly-Er-qdB.text" = " مشاركتها في أي مكان آخر";
+
+/* Class = "UILabel"; text = "YOUR ACTIONS"; ObjectID = "Gub-zO-K0U"; */
+"Gub-zO-K0U.text" = "خياراتك";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "H7O-q4-bql"; */
+"H7O-q4-bql.normalTitle" = "إلغاء";
+
+/* Class = "UIButton"; normalTitle = "REJECT"; ObjectID = "HXn-Tb-EJ6"; */
+"HXn-Tb-EJ6.normalTitle" = "رفض";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "HcL-H8-Nnl"; */
+"HcL-H8-Nnl.placeholder" = "الإسم";
+
+/* Class = "UILabel"; text = " :   Prescribed to follow"; ObjectID = "Hda-nh-OMI"; */
+"Hda-nh-OMI.text" = " :   يوصف للمتابعة";
+
+/* Class = "UITextField"; placeholder = "Medical Registration Number\n"; ObjectID = "Hjw-Fm-m0D"; */
+"Hjw-Fm-m0D.placeholder" = "رقم التسجيل الطبي";
+
+/* Class = "UITextField"; placeholder = "Mobile No."; ObjectID = "I0K-Tg-oQj"; */
+"I0K-Tg-oQj.placeholder" = "رقم الإتصال";
+
+/* Class = "UILabel"; text = "Fever"; ObjectID = "I3H-h7-bXi"; */
+"I3H-h7-bXi.text" = "Fever";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "I6W-rB-IJs"; */
+"I6W-rB-IJs.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "Source-web"; ObjectID = "IKB-AU-Z5C"; */
+"IKB-AU-Z5C.text" = "المصدر-الويب";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "IKK-TT-XqQ"; */
+"IKK-TT-XqQ.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "PAID DATE  -"; ObjectID = "Ig5-hU-bSu"; */
+"Ig5-hU-bSu.text" = "- تاريخ الدفع ";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "Iw7-57-Oaq"; */
+"Iw7-57-Oaq.normalTitle" = "تم";
+
+/* Class = "UITextField"; placeholder = "Clinic Branch Name"; ObjectID = "JB3-Tc-Zk0"; */
+"JB3-Tc-Zk0.placeholder" = "اسم فرع للعيادة";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "JCS-Jt-OoW"; */
+"JCS-Jt-OoW.normalTitle" = "إلغاء";
+
+/* Class = "UITextField"; placeholder = "Other Educational Qualification (Optional)"; ObjectID = "JQI-Tw-zwJ"; */
+"JQI-Tw-zwJ.placeholder" = "المؤهلات التعليمية الأخرى (اختياري)";
+
+/* Class = "UILabel"; text = "and"; ObjectID = "K1Q-lM-bBB"; */
+"K1Q-lM-bBB.text" = "و";
+
+/* Class = "UILabel"; text = "ADD BANK DETAILS"; ObjectID = "K5C-HB-t2S"; */
+"K5C-HB-t2S.text" = "ADD BANK DETAILS";
+
+/* Class = "UIButton"; normalTitle = "Week Days"; ObjectID = "KIV-ZL-vDx"; */
+"KIV-ZL-vDx.normalTitle" = "أيام الإسبوع";
+
+/* Class = "UIButton"; selectedTitle = "Week Days"; ObjectID = "KIV-ZL-vDx"; */
+"KIV-ZL-vDx.selectedTitle" = "أيام الإسبوع";
+
+/* Class = "UILabel"; text = "Note: We'll automatically update your experience once you register with us"; ObjectID = "KS8-dQ-rY3"; */
+"KS8-dQ-rY3.text" = "ملاحظة: سنقوم بتحديث خبراتك تلقائيا بمجرد التسجيل معنا";
+
+/* Class = "UIButton"; normalTitle = "ACCEPT"; ObjectID = "KSW-ZI-mvr"; */
+"KSW-ZI-mvr.normalTitle" = "موافقة";
+
+/* Class = "UILabel"; text = "any third party. "; ObjectID = "KYw-Z8-Qng"; */
+"KYw-Z8-Qng.text" = "أي طرف ثالث";
+
+/* Class = "UILabel"; text = "You'll receive an OTP via SMS to verify your number"; ObjectID = "KaA-W4-53s"; */
+"KaA-W4-53s.text" = "سوف تصلك كلمة السر المؤقتة في رسالة نصية لتأكيد رقم الإتصال الخاص بك";
+
+/* Class = "UILabel"; text = "Reason for Visit"; ObjectID = "Kse-di-rmt"; */
+"Kse-di-rmt.text" = "- سبب الزيارة ";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "LGP-Wa-P8q"; */
+"LGP-Wa-P8q.normalTitle" = "هل نسيت كلمة السر؟";
+
+/* Class = "UILabel"; text = "9703636468"; ObjectID = "LS8-9F-OOw"; */
+"LS8-9F-OOw.text" = "9703636468";
+
+/* Class = "UILabel"; text = "Pending Amount"; ObjectID = "Lvy-gM-cDY"; */
+"Lvy-gM-cDY.text" = "المبلغ المعلق";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M5Q-nY-Lf1"; */
+"M5Q-nY-Lf1.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Start Time"; ObjectID = "ME6-it-FgU"; */
+"ME6-it-FgU.normalTitle" = "وقت البدء";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "Mmp-B6-iv7"; */
+"Mmp-B6-iv7.normalTitle" = "تم";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Mpz-UL-aFd"; */
+"Mpz-UL-aFd.placeholder" = "الإسم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NPx-1c-ozu"; */
+"NPx-1c-ozu.text" = "Label";
+
+/* Class = "UILabel"; text = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"; ObjectID = "Na6-Rn-p9o"; */
+"Na6-Rn-p9o.text" = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "NgX-P6-EQw"; */
+"NgX-P6-EQw.placeholder" = "تأكيد كلمة السر";
+
+/* Class = "UILabel"; text = "Set Your Available Time"; ObjectID = "NmP-nQ-zlc"; */
+"NmP-nQ-zlc.text" = "حدد أوقاتك المتاحة";
+
+/* Class = "UILabel"; text = "VERIFY YOURSELF"; ObjectID = "No2-u7-XlH"; */
+"No2-u7-XlH.text" = "قم بتأكيد معلوماتك الشخصية";
+
+/* Class = "UILabel"; text = "3:30 - 4:00 pm"; ObjectID = "Nwt-EW-Vkq"; */
+"Nwt-EW-Vkq.text" = "3:30 - 4:00 pm";
+
+/* Class = "UILabel"; text = "APPOINTMENTS"; ObjectID = "OFF-MG-wlS"; */
+"OFF-MG-wlS.text" = "المواعيد";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OVt-qy-gKd"; */
+"OVt-qy-gKd.text" = "Label";
+
+/* Class = "UILabel"; text = "MOBILE NUMBER -"; ObjectID = "OhK-Of-724"; */
+"OhK-Of-724.text" = " رقم الإتصال -";
+
+/* Class = "UILabel"; text = "MOBILE NUMBER -"; ObjectID = "Z0c-fg-0A1"; */
+"Z0c-fg-0A1.text" = " رقم الإتصال -";
+
+/* Class = "UILabel"; text = "REASON FOR VISIT -"; ObjectID = "Ond-VB-9NT"; */
+"Ond-VB-9NT.text" = "سبب الزيارة -";
+
+/* Class = "UILabel"; text = "REASON FOR VISIT -"; ObjectID = "i3l-5v-hEz"; */
+"i3l-5v-hEz.text" = " سبب الزيارة -";
+//
+/* Class = "UILabel"; text = "REASON FOR VISIT -"; ObjectID = "tiq-DZ-c6Z"; */
+"tiq-DZ-c6Z.text" = " سبب الزيارة -";
+
+
+
+/* Class = "UILabel"; text = "REQUESTED DATE  -"; ObjectID = "OvW-Vk-cbO"; */
+"OvW-Vk-cbO.text" = " التاريخ المطلوب -";
+
+/* Class = "UILabel"; text = "REQUESTED DATE  -"; ObjectID = "RWS-eq-8O0"; */
+"RWS-eq-8O0.text" = " التاريخ المطلوب -";
+
+/* Class = "UILabel"; text = "REQUESTED DATE  -"; ObjectID = "ABX-iB-EyA"; */
+"ABX-iB-EyA.text" = " التاريخ المطلوب -";
+
+/* Class = "UIButton"; normalTitle = "Resend"; ObjectID = "PB8-RT-xYe"; */
+"PB8-RT-xYe.normalTitle" = "إعادة إرسال";
+
+/* Class = "UILabel"; text = "ongole"; ObjectID = "PZV-AR-2x4"; */
+"PZV-AR-2x4.text" = "ongole";
+
+/* Class = "UIButton"; normalTitle = "Start Time"; ObjectID = "PaZ-3r-yVo"; */
+"PaZ-3r-yVo.normalTitle" = "وقت البدء";
+
+/* Class = "UILabel"; text = "Get started with Tabiib to get appointments"; ObjectID = "PaZ-9c-BTJ"; */
+"PaZ-9c-BTJ.text" = "أبدأ الآن مع طبيب للحصول على المواعيد";
+
+/* Class = "UILabel"; text = "(View requested, upcoming, completed and cancelled appointments)"; ObjectID = "PhV-Bt-yNQ"; */
+"PhV-Bt-yNQ.text" = "(عرض المواعيد المطلوبة، القادمة، التي انجزت والملغية)";
+
+/* Class = "UILabel"; text = "RESET PASSWORD"; ObjectID = "PxZ-iS-dkY"; */
+"PxZ-iS-dkY.text" = "إعادة تعيين كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "SAVE & CONTINUE"; ObjectID = "PzS-MU-G14"; */
+"PzS-MU-G14.normalTitle" = "حفظ ومتابعة";
+
+/* Class = "UILabel"; text = "Date of Payment"; ObjectID = "QYc-wf-5Wu"; */
+"QYc-wf-5Wu.text" = "تاريخ الدفع";
+
+/* Class = "UILabel"; text = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"; ObjectID = "Qc9-nP-erl"; */
+"Qc9-nP-erl.text" = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -";
+
+/* Class = "UILabel"; text = "5 Jan 2018"; ObjectID = "Qe7-2Q-fhX"; */
+"Qe7-2Q-fhX.text" = "5 Jan 2018";
+
+/* Class = "UILabel"; text = "Jan"; ObjectID = "REX-Vy-DND"; */
+"REX-Vy-DND.text" = "Jan";
+
+/* Class = "UILabel"; text = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"; ObjectID = "RLj-7K-HGu"; */
+"RLj-7K-HGu.text" = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "RXx-bG-MFa"; */
+"RXx-bG-MFa.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Patient Age - "; ObjectID = "RdR-x0-20Y"; */
+"RdR-x0-20Y.text" = " عمر المريض -";
+
+/* Class = "UILabel"; text = "Requested Time - "; ObjectID = "Rgd-Gz-Jb3"; */
+"Rgd-Gz-Jb3.text" = " الوقت المطلوب -";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "Rqq-x0-HaO"; */
+"Rqq-x0-HaO.normalTitle" = "تعديل";
+
+/* Class = "UILabel"; text = "Your Timings"; ObjectID = "RxI-l1-zAV"; */
+"RxI-l1-zAV.text" = "أوقاتك";
+
+/* Class = "UILabel"; text = "SMSC Clinic"; ObjectID = "S8b-Bu-R2s"; */
+"S8b-Bu-R2s.text" = "SMSC Clinic";
+
+/* Class = "UILabel"; text = "Jan"; ObjectID = "S9x-wv-1jW"; */
+"S9x-wv-1jW.text" = "Jan";
+
+/* Class = "UILabel"; text = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"; ObjectID = "SAN-Tk-3aP"; */
+"SAN-Tk-3aP.text" = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -";
+
+/* Class = "UIButton"; normalTitle = "UPDATE PASSWORD"; ObjectID = "SCk-i4-IvY"; */
+"SCk-i4-IvY.normalTitle" = "تحديث كلمة السر";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "SJw-7G-fVf"; */
+"SJw-7G-fVf.text" = "أخرى";
+
+/* Class = "UILabel"; text = "Online"; ObjectID = "SK1-JE-Kc1"; */
+"SK1-JE-Kc1.text" = "Online";
+
+/* Class = "UIButton"; normalTitle = "ADD CLINIC"; ObjectID = "Siw-0Q-Awl"; */
+"Siw-0Q-Awl.normalTitle" = "أضف عيادة";
+
+/* Class = "UIButton"; normalTitle = "End Time"; ObjectID = "SkC-sE-mhu"; */
+"SkC-sE-mhu.normalTitle" = "وقت الإنتهاء";
+
+/* Class = "UILabel"; text = "Clinic Name -"; ObjectID = "SlH-Mj-N2Z"; */
+"SlH-Mj-N2Z.text" = " اسم العيادة -";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "SnL-xQ-r7y"; */
+"SnL-xQ-r7y.text" = "Sunday";
+
+/* Class = "UILabel"; text = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"; ObjectID = "SzJ-9A-ocw"; */
+"SzJ-9A-ocw.text" = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "T0f-VI-ki9"; */
+"T0f-VI-ki9.normalTitle" = "X";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "T3f-N6-kTH"; */
+"T3f-N6-kTH.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "ACCOUNT NUMBER  - "; ObjectID = "bzr-HP-Moa"; */
+"bzr-HP-Moa.text" = "!يبو أنه يوجد خطأ ما";
+
+/* Class = "UILabel"; text = "CHANGEPASSWORD"; ObjectID = "TNW-RI-QdI"; */
+"TNW-RI-QdI.text" = "تغيير كلمة السر";
+
+/* Class = "UILabel"; text = ":   Not Well"; ObjectID = "TR4-R7-4PV"; */
+"TR4-R7-4PV.text" = ":   Not Well";
+
+/* Class = "UILabel"; text = "REASON FOR VISIT -"; ObjectID = "TYb-ed-tAG"; */
+"TYb-ed-tAG.text" = " سبب الزيارة -";
+
+/* Class = "UILabel"; text = "SMSC Clinic"; ObjectID = "Tdo-vN-Wa4"; */
+"Tdo-vN-Wa4.text" = "SMSC Clinic";
+
+/* Class = "UIButton"; normalTitle = "Reload Back"; ObjectID = "Tuj-Dh-rvY"; */
+"Tuj-Dh-rvY.normalTitle" = "إعادة تحميل - رجوع";
+
+/* Class = "UILabel"; text = "3:30 - 4:00 pm"; ObjectID = "UBj-U8-c5U"; */
+"UBj-U8-c5U.text" = "3:30 - 4:00 pm";
+
+/* Class = "UITextField"; placeholder = "Consultation Fee"; ObjectID = "UEs-r4-d7G"; */
+"UEs-r4-d7G.placeholder" = "رسوم الإستشارة";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "ULM-q3-XZv"; */
+"ULM-q3-XZv.placeholder" = "رقم الإتصال";
+
+/* Class = "UILabel"; text = "Now just relax while we verify your OTP"; ObjectID = "UTc-5u-lun"; */
+"UTc-5u-lun.text" = "قم بالإسترخاء الآن وسنقوم بتأكيد كلمة السر المؤقتة المرسلة لك";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "UUQ-V1-6dy"; */
+"UUQ-V1-6dy.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "7 Jan 2018"; ObjectID = "UUh-aQ-q3e"; */
+"UUh-aQ-q3e.text" = "7 Jan 2018";
+
+/* Class = "UILabel"; text = "SEARCH CLINICS"; ObjectID = "UY0-aO-jPV"; */
+"UY0-aO-jPV.text" = "البحث عن عيادة";
+
+/* Class = "UILabel"; text = "Requested Date -"; ObjectID = "Uvn-dK-jlR"; */
+"Uvn-dK-jlR.text" = " التاريخ المطلوب -";
+
+/* Class = "UILabel"; text = ":    0123456"; ObjectID = "Uw1-nz-7z3"; */
+"Uw1-nz-7z3.text" = ":    0123456";
+
+/* Class = "UILabel"; text = "Consulted Date "; ObjectID = "V4R-1e-1Sr"; */
+"V4R-1e-1Sr.text" = "تاريخ الإستشارة ";
+
+/* Class = "UILabel"; text = "No internet connection."; ObjectID = "1dd-nD-PfA"; */
+"1dd-nD-PfA.text" = "لست متصل بخدمة الإنترنت";
+
+/* Class = "UILabel"; text = "PROFILE"; ObjectID = "VGb-rN-2c8"; */
+"VGb-rN-2c8.text" = "الملف الشخصي";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Vlw-8n-UBS"; */
+"Vlw-8n-UBS.placeholder" = "كلمة السر";
+
+/* Class = "UILabel"; text = "Appointment ID- 123456"; ObjectID = "VmU-8n-m6v"; */
+"VmU-8n-m6v.text" = "- رقم الموعد";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "VtU-vV-H5W"; */
+"VtU-vV-H5W.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "Get started with Tabiib to get appointments"; ObjectID = "Vvp-M3-lfz"; */
+"Vvp-M3-lfz.text" = "احصل على مواعيدك الآن مع تطبيق طبيب!";
+
+/* Class = "UITextField"; placeholder = "Email ID (if any)"; ObjectID = "WMG-7x-GDC"; */
+"WMG-7x-GDC.placeholder" = "البريد الإلكتروني (إن وجد)";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "WUm-kP-X1M"; */
+"WUm-kP-X1M.placeholder" = "كلمة السر الجديدة";
+
+/* Class = "UILabel"; text = "SUPPORT"; ObjectID = "WXE-aU-ezF"; */
+"WXE-aU-ezF.text" = "الدعم الفني";
+
+/* Class = "UILabel"; text = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"; ObjectID = "Wnb-Wu-EvY"; */
+"Wnb-Wu-EvY.text" = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -";
+
+/* Class = "UILabel"; text = "Jan 5 2018"; ObjectID = "X6S-0E-jEz"; */
+"X6S-0E-jEz.text" = "Jan 5 2018";
+
+/* Class = "UIButton"; normalTitle = "PROCEED"; ObjectID = "X9e-Y5-8lg"; */
+"X9e-Y5-8lg.normalTitle" = "متابعة";
+
+/* Class = "UILabel"; text = "NOTIFICATIONS"; ObjectID = "XCH-ji-y2Q"; */
+"XCH-ji-y2Q.text" = "التنبيهات";
+
+/* Class = "UILabel"; text = "BANK NAME  - "; ObjectID = "Xft-BH-e3F"; */
+"Xft-BH-e3F.text" = "- اسم البنك ";
+
+/* Class = "UIButton"; normalTitle = "SAVE & CONTINUE"; ObjectID = "Xgm-bK-1Eb"; */
+"Xgm-bK-1Eb.normalTitle" = "حفظ ومتابعة";
+
+/* Class = "UILabel"; text = "visibility by adding clinics now."; ObjectID = "Xh2-LD-mHd"; */
+"Xh2-LD-mHd.text" = "ظهورك من خلال إضافة العيادات الآن";
+
+/* Class = "UILabel"; text = "ID-123456"; ObjectID = "Y0R-5U-bAS"; */
+"Y0R-5U-bAS.text" = "- الرقم";
+
+/* Class = "UILabel"; text = "Create a new password for your account"; ObjectID = "YWt-bH-Fsg"; */
+"YWt-bH-Fsg.text" = "قم بإنشاء كلمة مرور جديدة لحسابك";
+
+/* Class = "UITextField"; placeholder = "Medical Registration Number"; ObjectID = "YrQ-zL-tZm"; */
+"YrQ-zL-tZm.placeholder" = "رقم التسجيل الطبي";
+
+/* Class = "UITextField"; placeholder = "Medical Registration Council"; ObjectID = "Z17-uG-zgN"; */
+"Z17-uG-zgN.placeholder" = "جهة شهادة التسجيل الطبي";
+
+/* Class = "UILabel"; text = "OTP VERIFICATION"; ObjectID = "Z4n-YP-Re5"; */
+"Z4n-YP-Re5.text" = "تأكيد كلمة السر المؤقتة";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Z8n-d2-iNC"; */
+"Z8n-d2-iNC.placeholder" = "كلمة السر";
+
+/* Class = "UILabel"; text = "TABIIB"; ObjectID = "ZxM-NT-ZUP"; */
+"ZxM-NT-ZUP.text" = "طبيب";
+
+/* Class = "UILabel"; text = "BRANCH  - "; ObjectID = "ZzM-wt-ndh"; */
+"ZzM-wt-ndh.text" = "- الفرع ";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "aNW-XN-jQu"; */
+"aNW-XN-jQu.text" = "هل لديك حساب؟";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "akY-wj-zDf"; */
+"akY-wj-zDf.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "No new notifications found"; ObjectID = "amz-i8-17D"; */
+"amz-i8-17D.text" = "يوجد إشعارات وتنبيهات جديدة";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "b0c-XB-xHw"; */
+"b0c-XB-xHw.normalTitle" = "إلغاء";
+
+/* Class = "UIButton"; normalTitle = "Select Specialisation"; ObjectID = "b5U-h0-0Ca"; */
+"b5U-h0-0Ca.normalTitle" = "اختر التخصص";
+
+/* Class = "UILabel"; text = "Sasank Lelapalli"; ObjectID = "bBb-Ln-lC6"; */
+"bBb-Ln-lC6.text" = "Sasank Lelapalli";
+
+/* Class = "UILabel"; text = "AGE -"; ObjectID = "bDA-vz-mdy"; */
+"bDA-vz-mdy.text" = " العمر -";
+
+/* Class = "UILabel"; text = "AGE -"; ObjectID = "tyQ-uu-ZRQ"; */
+"tyQ-uu-ZRQ.text" = " العمر -";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "bDf-ef-bna"; */
+"bDf-ef-bna.normalTitle" = "إلغاء";
+
+/* Class = "UIButton"; normalTitle = "Clinic info"; ObjectID = "bEe-md-7Pn"; */
+"bEe-md-7Pn.normalTitle" = "معلومات العيادة";
+
+/* Class = "UILabel"; text = "You have no appointments today!"; ObjectID = "bIY-9Q-yjL"; */
+"bIY-9Q-yjL.text" = "!لا يوجد أي مواعيد لهذا اليوم";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "bPe-Nu-Btd"; */
+"bPe-Nu-Btd.normalTitle" = "تغيير كلمة السر";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "bbf-Rl-Rj8"; */
+"bbf-Rl-Rj8.text" = "ليس لديك حساب؟";
+
+/* Class = "UILabel"; text = "PAYMENT STATUS  -"; ObjectID = "bgK-b5-6Gf"; */
+"bgK-b5-6Gf.text" = "- حالة الدفع";
+
+/* Class = "UILabel"; text = "Tabiib"; ObjectID = "bmc-4B-7MI"; */
+"bmc-4B-7MI.text" = "طبيب";
+
+/* Class = "UILabel"; text = "PROFILE"; ObjectID = "bpM-oD-1MF"; */
+"bpM-oD-1MF.text" = "الملف الشخصي";
+
+/* Class = "UILabel"; text = "PROFILE"; ObjectID = "aHp-Be-6hh"; */
+"aHp-Be-6hh.text" = "الملف الشخصي";
+
+/* Class = "UITextField"; placeholder = "Name (As per passbook)"; ObjectID = "bvt-Ec-ex6"; */
+"bvt-Ec-ex6.placeholder" = "Name (As per passbook)";
+
+/* Class = "UILabel"; text = "SETTINGS"; ObjectID = "cII-T4-ZUH"; */
+"cII-T4-ZUH.text" = "الإعدادات";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "cqK-vk-SVE"; */
+"cqK-vk-SVE.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "5 Jan 2018"; ObjectID = "ctV-eu-rb9"; */
+"ctV-eu-rb9.text" = "5 Jan 2018";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "d2i-ls-29D"; */
+"d2i-ls-29D.normalTitle" = "تسليم";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "d2l-Ab-hjE"; */
+"d2l-Ab-hjE.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "Clinic Timings"; ObjectID = "diJ-cO-lWP"; */
+"diJ-cO-lWP.text" = "أوقات العيادة";
+
+/* Class = "UIButton"; normalTitle = "Select no of persons per hour"; ObjectID = "duZ-a0-bte"; */
+"duZ-a0-bte.normalTitle" = "إختر عدد الأشخاص في الساعة";
+
+/* Class = "UILabel"; text = "CLINICS"; ObjectID = "e0x-8u-05M"; */
+"e0x-8u-05M.text" = "العيادات";
+
+/* Class = "UILabel"; text = ":    5 Jan 2018"; ObjectID = "eCj-vf-JV0"; */
+"eCj-vf-JV0.text" = ":    5 Jan 2018";
+
+/* Class = "UILabel"; text = "SPECIALISATION"; ObjectID = "eF1-Ct-tK1"; */
+"eF1-Ct-tK1.text" = "التخصص";
+
+/* Class = "UILabel"; text = "Jan 5 2018"; ObjectID = "eI9-Me-HU8"; */
+"eI9-Me-HU8.text" = "Jan 5 2018";
+
+/* Class = "UITextField"; placeholder = "Clinic Address (optional)"; ObjectID = "eK8-1c-0fT"; */
+"eK8-1c-0fT.placeholder" = "Clinic Address (optional)";
+
+/* Class = "UILabel"; text = "Fever"; ObjectID = "eMN-2q-3eL"; */
+"eMN-2q-3eL.text" = "Fever";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ePO-5l-SEl"; */
+"ePO-5l-SEl.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Branch"; ObjectID = "edm-Qp-jB7"; */
+"edm-Qp-jB7.placeholder" = "الفرع ";
+
+/* Class = "UITextField"; placeholder = "Email ID"; ObjectID = "eoV-md-okW"; */
+"eoV-md-okW.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UITextField"; placeholder = "Account Type ( Saving / current )"; ObjectID = "eq6-hL-8w0"; */
+"eq6-hL-8w0.placeholder" = "Account Type ( Saving / current )";
+
+/* Class = "UILabel"; text = "04 : 30 - 5 : 00 PM"; ObjectID = "euN-Xd-9K3"; */
+"euN-Xd-9K3.text" = "04 : 30 - 5 : 00 PM";
+
+/* Class = "UILabel"; text = "APPOINTMENT DETAILS"; ObjectID = "f2t-3n-tgX"; */
+"f2t-3n-tgX.text" = "تفاصيل الموعد";
+
+/* Class = "UILabel"; text = "03 : 30 PM"; ObjectID = "fR9-LF-yNW"; */
+"fR9-LF-yNW.text" = "03 : 30 PM";
+
+/* Class = "UIButton"; normalTitle = "Week Days"; ObjectID = "fRN-5T-EBI"; */
+"fRN-5T-EBI.normalTitle" = "أيام الإسبوع";
+
+/* Class = "UIButton"; selectedTitle = "Week Days"; ObjectID = "fRN-5T-EBI"; */
+"fRN-5T-EBI.selectedTitle" = "أيام الإسبوع";
+
+/* Class = "UILabel"; text = "Sasank Lelapalli"; ObjectID = "fl7-ZK-PXg"; */
+"fl7-ZK-PXg.text" = "Sasank Lelapalli";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "flg-aS-jvH"; */
+"flg-aS-jvH.placeholder" = "رقم الإتصال";
+
+/* Class = "UIButton"; normalTitle = "91"; ObjectID = "fty-2t-Nd6"; */
+"fty-2t-Nd6.normalTitle" = "91";
+
+/* Class = "UILabel"; text = "Haven’t received the OTP yet? "; ObjectID = "fvs-MH-A66"; */
+"fvs-MH-A66.text" = "لم تستلم كلمة السر المؤقتة بعد؟ ";
+
+/* Class = "UILabel"; text = "phanindhra"; ObjectID = "gDO-7s-07h"; */
+"gDO-7s-07h.text" = "phanindhra";
+
+/* Class = "UILabel"; text = "Jan"; ObjectID = "gEM-YY-vdu"; */
+"gEM-YY-vdu.text" = "Jan";
+
+/* Class = "UIButton"; normalTitle = "Educational"; ObjectID = "gQZ-bh-mPc"; */
+"gQZ-bh-mPc.normalTitle" = "التعليمية";
+
+/* Class = "UILabel"; text = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"; ObjectID = "hMe-RD-U5p"; */
+"hMe-RD-U5p.text" = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -";
+
+/* Class = "UILabel"; text = "You have no appointments today!"; ObjectID = "hcg-H0-zJm"; */
+"hcg-H0-zJm.text" = "!لا يوجد أي مواعيد لهذا اليوم";
+
+/* Class = "UITextField"; placeholder = "Account Number"; ObjectID = "hhK-XN-Dvi"; */
+"hhK-XN-Dvi.placeholder" = "رقم الحساب";
+
+/* Class = "UILabel"; text = "Booked For - "; ObjectID = "hlc-rk-FTd"; */
+"hlc-rk-FTd.text" = " حجز إلى -";
+
+/* Class = "UILabel"; text = "REASON FOR VISIT -"; ObjectID = "iI8-gk-hyB"; */
+"iI8-gk-hyB.text" = " سبب الزيارة -";
+
+/* Class = "UILabel"; text = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"; ObjectID = "ieO-Gd-tvW"; */
+"ieO-Gd-tvW.text" = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -";
+
+/* Class = "UILabel"; text = ":    BHD 30"; ObjectID = "iet-ZU-ZTm"; */
+"iet-ZU-ZTm.text" = ":    BHD 30";
+
+/* Class = "UITextField"; placeholder = "Email/Mobile No."; ObjectID = "j6q-rQ-CWL"; */
+"j6q-rQ-CWL.placeholder" = "البريد الإلكتروني/ رقم الموبايل";
+
+/* Class = "UILabel"; text = "Sasank Lelapalli"; ObjectID = "jEk-n9-Dza"; */
+"jEk-n9-Dza.text" = "Sasank Lelapalli";
+
+/* Class = "UITextField"; placeholder = "Highest Educational Qualifcation"; ObjectID = "jVu-Qr-KEn"; */
+"jVu-Qr-KEn.placeholder" = "المؤهل العلمي الأعلى";
+
+/* Class = "UILabel"; text = ":   31 Dec 2018"; ObjectID = "jao-Tc-qXN"; */
+"jao-Tc-qXN.text" = ":   31 Dec 2018";
+
+/* Class = "UILabel"; text = "HISTORY"; ObjectID = "jiG-ff-14f"; */
+"jiG-ff-14f.text" = "السجل";
+
+/* Class = "UILabel"; text = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"; ObjectID = "jif-Rg-UN5"; */
+"jif-Rg-UN5.text" = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -";
+
+/* Class = "UILabel"; text = "REQUESTED DATE  -"; ObjectID = "jo0-hT-1nK"; */
+"jo0-hT-1nK.text" = " التاريخ المطلوب -";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "juE-kb-kWJ"; */
+"juE-kb-kWJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Your details are safe with us and will not be shared with"; ObjectID = "jyQ-rh-n9n"; */
+"jyQ-rh-n9n.text" = "Your details are safe with us and will not be shared with";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "k6e-fT-GPa"; */
+"k6e-fT-GPa.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "REQUESTED DATE  -"; ObjectID = "k79-uh-m96"; */
+"k79-uh-m96.text" = " التاريخ المطلوب -";
+
+/* Class = "UILabel"; text = " your profile is incomplete. Increase your "; ObjectID = "kK0-Gh-Bqg"; */
+"kK0-Gh-Bqg.text" = " ملفك التعريفي غير مكتمل. قم بزيادة";
+
+/* Class = "UILabel"; text = "Jan 5 2018"; ObjectID = "kbg-8u-X8G"; */
+"kbg-8u-X8G.text" = "Jan 5 2018";
+
+/* Class = "UILabel"; text = "Active - Added on 3 Jan 2018"; ObjectID = "kmY-Ex-mb8"; */
+"kmY-Ex-mb8.text" = "Active - Added on 3 Jan 2018";
+
+/* Class = "UILabel"; text = "PATIENT NAME -"; ObjectID = "kuk-hl-o5K"; */
+"kuk-hl-o5K.text" = " إسم المريض -";
+
+
+/* Class = "UILabel"; text = "Appointment Date -"; ObjectID = "l0h-5e-X5O"; */
+"l0h-5e-X5O.text" = " تاريخ الموعد -";
+
+/* Class = "UILabel"; text = "REQUESTED DATE  -"; ObjectID = "l5d-dz-wV7"; */
+"l5d-dz-wV7.text" = " التاريخ المطلوب -";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "lMJ-nU-IY4"; */
+"lMJ-nU-IY4.text" = "Sunday";
+
+/* Class = "UILabel"; text = "LANGUAGE"; ObjectID = "lkg-BK-sWN"; */
+"lkg-BK-sWN.text" = "اللغة";
+
+/* Class = "UILabel"; text = "Please check your network settings to keep using Tabiib"; ObjectID = "lwC-fD-qHf"; */
+"lwC-fD-qHf.text" = "يرجى التحقق من إعدادات الشبكة الخاصة بك واتصالك بالإنترنت لمواصلة استخدام التطبيق";
+
+/* Class = "UIButton"; normalTitle = "Mr."; ObjectID = "mZZ-9g-vlk"; */
+"mZZ-9g-vlk.normalTitle" = "Mr.";
+
+/* Class = "UILabel"; text = "CLINIC NAME -"; ObjectID = "maz-5o-OO9"; */
+"maz-5o-OO9.text" = " إسم العيادة -";
+
+/* Class = "UITextField"; placeholder = "MobileNumber"; ObjectID = "mhr-Qk-5Q5"; */
+"mhr-Qk-5Q5.placeholder" = "رقم الإتصال";
+
+/* Class = "UILabel"; text = "24"; ObjectID = "mlo-tJ-2JP"; */
+"mlo-tJ-2JP.text" = "24";
+
+/* Class = "UILabel"; text = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"; ObjectID = "nDR-hW-1k8"; */
+"nDR-hW-1k8.text" = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -";
+
+/* Class = "UILabel"; text = "Page is Currently not available. we are Working on the problem Appreciate Your Patience"; ObjectID = "nUr-zN-KLu"; */
+"nUr-zN-KLu.text" = "الصفحة غير متوفرة حاليا. نحن نعمل على حل المشكلة الرجاء المحاولة في وقت لاحق";
+
+/* Class = "UILabel"; text = "CLINIC INFORMATION"; ObjectID = "nV1-jQ-kVh"; */
+"nV1-jQ-kVh.text" = "معلومات العيادة";
+
+/* Class = "UILabel"; text = "Reason for Visit -"; ObjectID = "nZj-cn-0gu"; */
+"nZj-cn-0gu.text" = " سبب الزيارة -";
+
+/* Class = "UILabel"; text = "3:30 - 4:00 pm"; ObjectID = "nci-jc-4Uz"; */
+"nci-jc-4Uz.text" = "3:30 - 4:00 pm";
+
+/* Class = "UITextField"; placeholder = "Clinic Branch Name (if any)"; ObjectID = "ngF-Yw-7bc"; */
+"ngF-Yw-7bc.placeholder" = "إسم فرع للعيادة (إن وجد)";
+
+/* Class = "UILabel"; text = "------"; ObjectID = "nrj-pB-s0X"; */
+"nrj-pB-s0X.text" = "------";
+
+/* Class = "UIButton"; normalTitle = "91"; ObjectID = "nuX-rm-c5G"; */
+"nuX-rm-c5G.normalTitle" = "91";
+
+/* Class = "UILabel"; text = "Pending"; ObjectID = "o2x-na-Ge1"; */
+"o2x-na-Ge1.text" = "قيد الإنتظار";
+
+/* Class = "UIButton"; normalTitle = "End Time"; ObjectID = "o4u-ON-Bpm"; */
+"o4u-ON-Bpm.normalTitle" = "وقت الإنتهاء";
+
+/* Class = "UIButton"; normalTitle = "LogOut"; ObjectID = "oBC-f3-0DB"; */
+"oBC-f3-0DB.normalTitle" = "تسجيل الخروج";
+
+/* Class = "UILabel"; text = "Sucess"; ObjectID = "oTN-AD-0c5"; */
+"oTN-AD-0c5.text" = "Sucess";
+
+/* Class = "UILabel"; text = "You have no appointments today!"; ObjectID = "oVt-qA-edz"; */
+"oVt-qA-edz.text" = "!لا يوجد أي مواعيد لهذا اليوم";
+
+/* Class = "UIButton"; normalTitle = "Personal"; ObjectID = "oYZ-gs-ErQ"; */
+"oYZ-gs-ErQ.normalTitle" = "الشخصية";
+
+/* Class = "UILabel"; text = "Date of Payment (if pending)"; ObjectID = "og6-of-ONd"; */
+"og6-of-ONd.text" = "Date of Payment (if pending)";
+
+/* Class = "UILabel"; text = "PAYMENTS"; ObjectID = "p7o-RR-ze4"; */
+"p7o-RR-ze4.text" = "المدفوعات";
+
+/* Class = "UILabel"; text = ":    BHD5"; ObjectID = "pR6-zh-HXH"; */
+"pR6-zh-HXH.text" = ":    BHD5";
+
+/* Class = "UILabel"; text = "07"; ObjectID = "pX3-7u-hy2"; */
+"pX3-7u-hy2.text" = "07";
+
+/* Class = "UILabel"; text = "A quick and easy way to track your payments for each "; ObjectID = "pjI-hl-FnB"; */
+"pjI-hl-FnB.text" = "A quick and easy way to track your payments for each ";
+
+/* Class = "UITextField"; placeholder = "Year"; ObjectID = "puE-3j-ACp"; */
+"puE-3j-ACp.placeholder" = "السنة";
+
+/* Class = "UITextField"; placeholder = "Code ( A s per GCC )"; ObjectID = "qLD-XX-WY8"; */
+"qLD-XX-WY8.placeholder" = "Code ( As per GCC )";
+
+/* Class = "UIButton"; normalTitle = "INR"; ObjectID = "qbx-bk-DcD"; */
+"qbx-bk-DcD.normalTitle" = "INR";
+
+/* Class = "UILabel"; text = "Enter your details to get started"; ObjectID = "qes-JI-hp8"; */
+"qes-JI-hp8.text" = "الرجاء إدخال بيناتك للبدء";
+
+/* Class = "UILabel"; text = "Fever"; ObjectID = "qgC-ZN-jlO"; */
+"qgC-ZN-jlO.text" = "Fever";
+
+/* Class = "UILabel"; text = "SMSC Clinic"; ObjectID = "qvB-Df-BMq"; */
+"qvB-Df-BMq.text" = "SMSC Clinic";
+
+/* Class = "UILabel"; text = "ongole"; ObjectID = "r2e-kS-GQC"; */
+"r2e-kS-GQC.text" = "ongole";
+
+/* Class = "UILabel"; text = "New"; ObjectID = "rcA-n7-AC0"; */
+"rcA-n7-AC0.text" = "جديد";
+
+/* Class = "UILabel"; text = "CLINIC NAME -"; ObjectID = "s71-eZ-wBL"; */
+"s71-eZ-wBL.text" = " إسم العيادة -";
+
+/* Class = "UITextField"; placeholder = "Pincode/Zipcode"; ObjectID = "sLq-dY-D9H"; */
+"sLq-dY-D9H.placeholder" = "الرمز البريدي";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "sRI-Hr-RXQ"; */
+"sRI-Hr-RXQ.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Consulted Time"; ObjectID = "tLm-R6-dVe"; */
+"tLm-R6-dVe.text" = "وقت الإستشارة";
+
+/* Class = "UILabel"; text = "PAYMENT TYPE  -"; ObjectID = "tc3-pW-P7Y"; */
+"tc3-pW-P7Y.text" = "- نوع الدفع";
+
+/* Class = "UILabel"; text = "This number will be used to book appointments through IVR"; ObjectID = "tc4-Rs-Heb"; */
+"tc4-Rs-Heb.text" = "سيتم استخدام هذا الرقم لحجز المواعيد من خلال المجيب الآلي";
+
+/* Class = "UIButton"; normalTitle = "Reload Back"; ObjectID = "tj7-bm-kuZ"; */
+"tj7-bm-kuZ.normalTitle" = "إعادة تحميل - رجوع";
+
+/* Class = "UILabel"; text = "REASON FOR VISIT -"; ObjectID = "twR-eu-cl6"; */
+"twR-eu-cl6.text" = " سبب الزيارة -";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "u2P-3Y-lhD"; */
+"u2P-3Y-lhD.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Transcation ID"; ObjectID = "uFR-2E-HCH"; */
+"uFR-2E-HCH.text" = "رقم المعاملة";
+
+/* Class = "UILabel"; text = "3:30 - 4:00 pm"; ObjectID = "uO1-ZH-Trh"; */
+"uO1-ZH-Trh.text" = "3:30 - 4:00 pm";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "ui9-8s-wri"; */
+"ui9-8s-wri.normalTitle" = "تخطى";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "unW-IE-YjU"; */
+"unW-IE-YjU.normalTitle" = "تم";
+
+/* Class = "UITextField"; placeholder = "Month"; ObjectID = "uno-eh-FlG"; */
+"uno-eh-FlG.placeholder" = "الشهر";
+
+/* Class = "UIButton"; normalTitle = "All Days"; ObjectID = "uxM-Ya-oDq"; */
+"uxM-Ya-oDq.normalTitle" = "جميع الأيام";
+
+/* Class = "UIButton"; selectedTitle = "All Days"; ObjectID = "uxM-Ya-oDq"; */
+"uxM-Ya-oDq.selectedTitle" = "جميع الأيام";
+
+/* Class = "UILabel"; text = "Fever"; ObjectID = "v0B-UW-NSc"; */
+"v0B-UW-NSc.text" = "Fever";
+
+/* Class = "UILabel"; text = "appointment"; ObjectID = "v5B-d1-kYV"; */
+"v5B-d1-kYV.text" = "الموعد";
+
+/* Class = "UILabel"; text = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"; ObjectID = "vOE-8g-Shk"; */
+"vOE-8g-Shk.text" = "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -";
+
+/* Class = "UILabel"; text = "New"; ObjectID = "vOy-dY-zgR"; */
+"vOy-dY-zgR.text" = "جديد";
+
+/* Class = "UILabel"; text = "Your Progress"; ObjectID = "vWS-1x-Dwa"; */
+"vWS-1x-Dwa.text" = "تحديث البيانات";
+
+/* Class = "UILabel"; text = ":    No"; ObjectID = "vc3-xA-ZA0"; */
+"vc3-xA-ZA0.text" = ":    No";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "vce-Cj-lWP"; */
+"vce-Cj-lWP.text" = "Sunday";
+
+/* Class = "UILabel"; text = "No Clinincs Available"; ObjectID = "vr9-C6-We5"; */
+"vr9-C6-We5.text" = "لا يوجد عيادات متاحة";
+
+/* Class = "UILabel"; text = "By signing up, you're agreeing to our "; ObjectID = "vsJ-qH-gXs"; */
+"vsJ-qH-gXs.text" = "عند التسجيل، أنت توافق على ";
+
+/* Class = "UILabel"; text = "NAME  - "; ObjectID = "w3m-57-2h3"; */
+"w3m-57-2h3.text" =  "- الإسم ";
+
+/* Class = "UILabel"; text = "Amount Paid"; ObjectID = "w4G-v8-AYs"; */
+"w4G-v8-AYs.text" = "المبلغ المدفوع";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "w9U-Rc-Jl6"; */
+"w9U-Rc-Jl6.normalTitle" = "تسليم";
+
+/* Class = "UIButton"; normalTitle = "RESET PASSWORD"; ObjectID = "wEr-gb-Oge"; */
+"wEr-gb-Oge.normalTitle" = "إعادة تعيين كلمة المرور";
+
+/* Class = "UILabel"; text = "9922331188"; ObjectID = "x4I-WJ-E9t"; */
+"x4I-WJ-E9t.text" = "9922331188";
+
+/* Class = "UILabel"; text = "Information"; ObjectID = "xXO-oZ-f8t"; */
+"xXO-oZ-f8t.text" = "المعلومات";
+
+/* Class = "UILabel"; text = ":    No Due"; ObjectID = "xot-KQ-XAC"; */
+"xot-KQ-XAC.text" = ":    لا يوجد مستحقات";
+
+/* Class = "UILabel"; text = "Patient Name - "; ObjectID = "yEi-VU-BGg"; */
+"yEi-VU-BGg.text" = " إسم المريض -";
+
+
+/* Class = "UILabel"; text = "Patient Name - "; ObjectID = "ruv-iQ-Xww"; */
+"ruv-iQ-Xww.text" = " إسم المريض -";
+
+
+/* Class = "UILabel"; text = "Auto Confirm Appointments"; ObjectID = "yMD-EY-mkM"; */
+"yMD-EY-mkM.text" = "الموافقة والتأكيد على المواعيد تلقائيا";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "zLg-gz-4xp"; */
+"zLg-gz-4xp.placeholder" = "تأكيد كلمة السر";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "zjx-OT-vy5"; */
+"zjx-OT-vy5.normalTitle" = "سجل الآن";
